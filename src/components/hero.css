@@ -1,0 +1,32 @@
+
+.hero-cta {
+    display: flex;
+    font-size: 1.6rem;
+    justify-content: center;
+  }
+
+
+  .cta-btn {
+    display: inline-block;
+    position: relative;
+    padding: 0.3rem ;
+    font-weight: bold;
+    line-height: 0.5;
+    z-index: 1;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.6s;
+    text-decoration: none;
+  }
+
+  .cta-btn--hero {
+    border: none;
+    background-color: rgb(205, 67, 43);
+    color:rgb(23,34,54);
+    border-width: 2px;
+    border-radius: 8px;
+    border-style: solid;
+    border-image-slice: 1;
+    cursor: pointer;
+    
+    }
+  
+    .cta-btn--hero:hover{background-color: rgb(23,34,54);color:rgb(205, 67, 43);}

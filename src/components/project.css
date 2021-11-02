@@ -1,0 +1,61 @@
+.project {
+    background-color: rgb(205, 67, 43);
+    background-image: linear-gradient( 150deg, rgb(23, 34, 54) 70%, rgb(205, 67, 43) 30%);
+    background-size: contain;
+    color: white;
+    min-height: 150vh;
+    border-top: 0px;
+    align-items: left;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+.head {
+    margin: auto;
+    width: 15%;
+    padding: 10px;
+}
+
+.project-wrapper {
+    text-align: left;
+    margin-bottom: 15rem;
+    margin-left: 15rem;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.proj_img {
+    display: flex;
+    float: right;
+    margin-left: 15rem;
+}
+
+.oly {
+    max-width: 65%;
+}
+
+.lib {
+    margin-left: 40%;
+    max-width: 50%
+}
+
+.cta-btn--proj {
+    border: none;
+    background-color: rgb(205, 67, 43);
+    color: rgb(23, 34, 54);
+    border-width: 2px;
+    border-radius: 8px;
+    border-style: solid;
+    border-image-slice: 1;
+    cursor: pointer;
+}
+
+.cta-btn--proj:hover {
+    background-color: rgb(23, 34, 54);
+    color: rgb(205, 67, 43);
+
+}
+
