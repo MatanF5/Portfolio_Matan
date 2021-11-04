@@ -27,7 +27,7 @@ const About = () => {
                                 <div className="about-abt">
                                     <h3>To Download My Resume</h3>
                                     <span className="abt-btn abt-btn--about">
-                                        <a href="https://drive.google.com/uc?export=download&id=1FuGy3T1MYhejBug8Wz4XdPnBcmk-Qbuz" download ><FaArrowDown size="30px" /></a>
+                                        <a href="https://drive.google.com/uc?export=download&id=1dwOzcQ5PE5YKG3PBorZ3iczlCLB7D0-d" download ><FaArrowDown size="30px" /></a>
                                     </span>
                                 </div>
                                 <br />
