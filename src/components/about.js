@@ -52,6 +52,7 @@ const About = () => {
                                 <u><div>C# <progress value="25" max="100" /> </div></u>
                                 <u><div>Git <progress value="45" max="100" /> </div></u>
                                 <u><div>Bootstrap <progress value="30" max="100" /> </div></u>
+                                <u><div>MySQL <progress value="75" max="100" /> </div></u>
                                 </div>
                             </div>
                         </div>
