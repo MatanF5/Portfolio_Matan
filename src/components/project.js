@@ -19,7 +19,7 @@ const Project = () => {
                         <h2>Olympics Simulator</h2>
                         <div>
                             <p>
-                                A project I made for an OOP course, using OOP principles and JavaFx
+                                A Java/JavaFx project using OOP principles and MySQL DB
                                 <div className="proj_img">
                                     <div className="oly">
                                         <img src={Olympics} alt="Oly" />
@@ -29,7 +29,7 @@ const Project = () => {
                                 <br />
                                 <br />
                                 <span className="cta-btn cta-btn--proj">
-                                    <a href="https://github.com/MatanF5/Personal-Projects/tree/main/Final_Project" target="popup">Source Code</a>
+                                    <a href="https://github.com/MatanF5/Olympics" target="popup">Source Code</a>
                                 </span>
                             </p>
                         </div>
